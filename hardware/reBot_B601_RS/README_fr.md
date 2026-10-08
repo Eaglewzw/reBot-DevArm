@@ -64,6 +64,8 @@ Le frottement prolongé du faisceau de câbles 1 peut user le connecteur du mote
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------- | ------------------ | --- | ------------------------------------------------------- |
 | Clips de faisceau de câbles pour les deux côtés du moteur 1 | <img src="./3D_Printed_Parts/images/RS_Motor1_wiring_harness_clip.jpg" width="80"> | `RS_Motor1_wiring_harness_clip.stp` | Bambu Lab ABS noir | 2   | Buse 0,4 mm, hauteur de couche 0,2 mm, remplissage 30 % |
 
+Les supports de caméra au poignet B601 sont communs aux **B601-RS et B601-DM**. Les modèles, aperçus et téléchargements sont regroupés dans le [catalogue commun des supports (en anglais)](../camera-mounts/README.md).
+
 ### 🧩 Recommandations d’impression
 
 * Hauteur de couche : 0,2 mm

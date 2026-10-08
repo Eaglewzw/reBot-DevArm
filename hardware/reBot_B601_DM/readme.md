@@ -81,7 +81,9 @@ Long-term dragging of Wiring Harness 1 may abrade the motor connector and result
 
 | Part Description | Image | File Name | Material | Qty | Notes |
 |----------|------|--------|------|----------|------|
-| [Orbbec Gemini2](https://www.seeedstudio.com/Orbbec-Gemini-2-3D-Camera-p-6464.html) | <img src="./3D_Printed_Parts/images/Gemini2_mount.png" width="80"> | [`D435_Gemini2_Mount.step`](./3D_Printed_Parts/D435_Gemini2_Mount.step) | Bambu ABS Black | 1 | 0.4mm Nozzle, 0.2mm Layer Height, 30% Infill |
+| [Orbbec Gemini2](https://www.seeedstudio.com/Orbbec-Gemini-2-3D-Camera-p-6464.html) | <img src="./3D_Printed_Parts/images/Gemini2_mount.png" width="80"> | [`D435_Gemini2_Mount.step`](../camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) | Bambu ABS Black | 1 | 0.4mm Nozzle, 0.2mm Layer Height, 30% Infill |
+
+The B601 wrist camera mounts are shared by **B601-RS and B601-DM**. Models, previews, and downloads are maintained in the [shared camera mount catalog](../camera-mounts/README.md).
 
 ### 🧩 Printing Recommendations
 - Layer height: 0.2 mm

@@ -178,10 +178,12 @@ Diseñado para aplicaciones de IA corpórea de sobremesa, equilibrando carga út
 
 ### Soporte de cámara para la muñeca
 
+Estos soportes de cámara de muñeca son comunes a **B601-RS y B601-DM**. Consulta el [catálogo completo de soportes y recursos de recopilación de datos (en inglés)](hardware/camera-mounts/README.md) para ver los modelos, las vistas previas y las descargas.
+
 | UVC 32×32 | Intel D435i | Intel D405 & Gemini 305 | Gemini 2 |
 | :--- | :--- | :--- | :--- |
 | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/UVC_camera_mount.png" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/D435i.jpg" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/D405.jpg" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/Gemini2.jpg" height="100"> |
-| [STEP](hardware/reBot_B601_DM/3D_Printed_Parts/UVC32_mount.step) | [STEP](hardware/reBot_B601_DM/3D_Printed_Parts/D435_Gemini2_Mount.step) | [STEP](hardware/reBot_B601_DM/3D_Printed_Parts/D405_305_Mount.step) · [notas de diseño](https://github.com/bowenszhu/rebot-b601-rs-d405-wrist-mount/tree/v1.0.0) | [STEP](hardware/reBot_B601_DM/3D_Printed_Parts/D435_Gemini2_Mount.step) |
+| [STEP](hardware/camera-mounts/b601-camera-mounts/UVC32_mount.step) | [STEP](hardware/camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) | [STEP](hardware/camera-mounts/b601-camera-mounts/D405_305_Mount.step) · [notas de diseño](https://github.com/bowenszhu/rebot-b601-rs-d405-wrist-mount/tree/v1.0.0) | [STEP](hardware/camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) |
 
 ### Compatible con el Leader Arm
 

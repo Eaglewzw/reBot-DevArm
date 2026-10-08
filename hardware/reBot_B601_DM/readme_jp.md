@@ -80,7 +80,9 @@
 
 | 部品説明 | 画像 | ファイル名 | 材料 | 数量 | 注記 |
 |----------|------|--------|------|----------|------|
-| [Orbbec Gemini2](https://www.seeedstudio.com/Orbbec-Gemini-2-3D-Camera-p-6464.html) | <img src="./3D_Printed_Parts/images/Gemini2_mount.png" width="80"> | [`D435_Gemini2_Mount.step`](./3D_Printed_Parts/D435_Gemini2_Mount.step) | Bambu ABS Black | 1 | 0.4mmノズル、0.2mmレイヤー高さ、30%インフィル |
+| [Orbbec Gemini2](https://www.seeedstudio.com/Orbbec-Gemini-2-3D-Camera-p-6464.html) | <img src="./3D_Printed_Parts/images/Gemini2_mount.png" width="80"> | [`D435_Gemini2_Mount.step`](../camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) | Bambu ABS Black | 1 | 0.4mmノズル、0.2mmレイヤー高さ、30%インフィル |
+
+B601 の手首カメラマウントは **B601-RS と B601-DM で共通**です。モデル、プレビュー、ダウンロードは[共通カメラマウント一覧（英語）](../camera-mounts/README.md)をご覧ください。
 
 ### 🧩 印刷推奨事項
 - レイヤー高さ: 0.2 mm

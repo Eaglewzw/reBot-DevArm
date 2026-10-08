@@ -178,10 +178,12 @@
 
 ### 手首カメラマウント
 
+これらの手首カメラマウントは **B601-RS と B601-DM で共通**です。全モデル、プレビュー、ダウンロードは[カメラマウントとデータ収集用リソース一覧（英語）](hardware/camera-mounts/README.md)をご覧ください。
+
 | 32×32 UVC カメラ | Intel D435i | Intel D405 & Gemini 305 | Gemini 2 |
 | :--- | :--- | :--- | :--- |
 | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/UVC_camera_mount.png" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/D435i.jpg" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/D405.jpg" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/Gemini2.jpg" height="100"> |
-| [STEP](hardware/reBot_B601_DM/3D_Printed_Parts/UVC32_mount.step) | [STEP](hardware/reBot_B601_DM/3D_Printed_Parts/D435_Gemini2_Mount.step) | [STEP](hardware/reBot_B601_DM/3D_Printed_Parts/D405_305_Mount.step) · [設計説明](https://github.com/bowenszhu/rebot-b601-rs-d405-wrist-mount/tree/v1.0.0) | [STEP](hardware/reBot_B601_DM/3D_Printed_Parts/D435_Gemini2_Mount.step) |
+| [STEP](hardware/camera-mounts/b601-camera-mounts/UVC32_mount.step) | [STEP](hardware/camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) | [STEP](hardware/camera-mounts/b601-camera-mounts/D405_305_Mount.step) · [設計説明](https://github.com/bowenszhu/rebot-b601-rs-d405-wrist-mount/tree/v1.0.0) | [STEP](hardware/camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) |
 
 ### マスターアーム（Leader Arm）対応
 

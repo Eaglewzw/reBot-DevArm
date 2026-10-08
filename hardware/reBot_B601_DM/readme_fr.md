@@ -81,7 +81,9 @@ Lors d’une utilisation prolongée, le tirage répété du faisceau de câbles 
 
 | Description de la pièce | Image | Nom du fichier | Matériau | Qté | Notes |
 |----------|------|--------|------|----------|------|
-| [Orbbec Gemini2](https://www.seeedstudio.com/Orbbec-Gemini-2-3D-Camera-p-6464.html) | <img src="./3D_Printed_Parts/images/Gemini2_mount.png" width="80"> | [`D435_Gemini2_Mount.step`](./3D_Printed_Parts/D435_Gemini2_Mount.step) | Bambu ABS Noir | 1 | Buse 0.4, hauteur de couche 0.2, remplissage 30% |
+| [Orbbec Gemini2](https://www.seeedstudio.com/Orbbec-Gemini-2-3D-Camera-p-6464.html) | <img src="./3D_Printed_Parts/images/Gemini2_mount.png" width="80"> | [`D435_Gemini2_Mount.step`](../camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) | Bambu ABS Noir | 1 | Buse 0.4, hauteur de couche 0.2, remplissage 30% |
+
+Les supports de caméra au poignet B601 sont communs aux **B601-RS et B601-DM**. Les modèles, aperçus et téléchargements sont regroupés dans le [catalogue commun des supports (en anglais)](../camera-mounts/README.md).
 
 ### 🧩 Recommandations d’impression
 - Hauteur de couche : 0.2 mm

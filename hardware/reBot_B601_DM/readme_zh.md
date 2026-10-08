@@ -71,8 +71,10 @@
 
 |  零件描述 | 图片 | 文件名 | 材料 | 数量 | 备注 |
 |----------|------|--------|------|----------|------|
-| Orbbec Gemini2相机 | <img src="./3D_Printed_Parts/images/Gemini2_mount.png" width="80"> | [`D435_Gemini2_Mount.step`](./3D_Printed_Parts/D435_Gemini2_Mount.step) | 拓竹 ABS 黑色  |  1 |  0.4喷嘴 0.2层高 30%填充 |
+| Orbbec Gemini2相机 | <img src="./3D_Printed_Parts/images/Gemini2_mount.png" width="80"> | [`D435_Gemini2_Mount.step`](../camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) | 拓竹 ABS 黑色  |  1 |  0.4喷嘴 0.2层高 30%填充 |
 
+
+B601 腕部相机支架由 **B601-RS 和 B601-DM 通用**。模型、预览图和下载链接统一维护在[摄像头支架资源目录](../camera-mounts/README_zh.md)。
 
 ### 🧩 打印建议
 - 层高：0.2 mm

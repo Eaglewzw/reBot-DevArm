@@ -81,7 +81,9 @@ El roce continuado del arnés de cableado del motor 1 puede desgastar el conecto
 
 | Descripción de la pieza | Imagen | Nombre de archivo | Material | Cant. | Notas |
 |----------|------|--------|------|----------|------|
-| [Orbbec Gemini2](https://www.seeedstudio.com/Orbbec-Gemini-2-3D-Camera-p-6464.html) | <img src="./3D_Printed_Parts/images/Gemini2_mount.png" width="80"> | [`D435_Gemini2_Mount.step`](./3D_Printed_Parts/D435_Gemini2_Mount.step) | Bambu ABS Negro | 1 | Boquilla 0.4 mm, altura de capa 0.2 mm, relleno 30 % |
+| [Orbbec Gemini2](https://www.seeedstudio.com/Orbbec-Gemini-2-3D-Camera-p-6464.html) | <img src="./3D_Printed_Parts/images/Gemini2_mount.png" width="80"> | [`D435_Gemini2_Mount.step`](../camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) | Bambu ABS Negro | 1 | Boquilla 0.4 mm, altura de capa 0.2 mm, relleno 30 % |
+
+Los soportes de cámara de muñeca B601 son comunes a **B601-RS y B601-DM**. Los modelos, las vistas previas y las descargas están en el [catálogo compartido de soportes (en inglés)](../camera-mounts/README.md).
 
 ### 🧩 Recomendaciones de impresión
 - Altura de capa: 0.2 mm

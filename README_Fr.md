@@ -178,10 +178,12 @@ Conçu pour des applications d'IA incarnée sur bureau, en équilibrant charge u
 
 ### Support de caméra au poignet
 
+Ces supports de caméra au poignet sont communs aux **B601-RS et B601-DM**. Consultez le [catalogue complet des supports et des ressources de collecte de données (en anglais)](hardware/camera-mounts/README.md) pour les modèles, les aperçus et les téléchargements.
+
 | UVC 32×32 | Intel D435i | Intel D405 & Gemini 305 | Gemini 2 |
 | :--- | :--- | :--- | :--- |
 | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/UVC_camera_mount.png" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/D435i.jpg" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/D405.jpg" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/Gemini2.jpg" height="100"> |
-| [STEP](hardware/reBot_B601_DM/3D_Printed_Parts/UVC32_mount.step) | [STEP](hardware/reBot_B601_DM/3D_Printed_Parts/D435_Gemini2_Mount.step) | [STEP](hardware/reBot_B601_DM/3D_Printed_Parts/D405_305_Mount.step) · [notes de conception](https://github.com/bowenszhu/rebot-b601-rs-d405-wrist-mount/tree/v1.0.0) | [STEP](hardware/reBot_B601_DM/3D_Printed_Parts/D435_Gemini2_Mount.step) |
+| [STEP](hardware/camera-mounts/b601-camera-mounts/UVC32_mount.step) | [STEP](hardware/camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) | [STEP](hardware/camera-mounts/b601-camera-mounts/D405_305_Mount.step) · [notes de conception](https://github.com/bowenszhu/rebot-b601-rs-d405-wrist-mount/tree/v1.0.0) | [STEP](hardware/camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) |
 
 ### Compatible avec le bras leader
 
