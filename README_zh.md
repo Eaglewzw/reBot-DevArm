@@ -172,10 +172,12 @@ reBot-DevArm 专为桌面级具身智能应用设计，兼顾负载能力与灵�
 
 ### 腕部相机支架
 
+这些腕部相机支架由 **B601-RS 和 B601-DM 通用**。全部模型、预览图及下载链接请查看[摄像头支架与数据采集资源目录](hardware/camera-mounts/README_zh.md)。
+
 | 32×32 UVC 相机 | Intel D435i | Intel D405 & Gemini 305 | Gemini 2 |
 | :--- | :--- | :--- | :--- |
-| 即将上线 | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/D435i.jpg" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/D405.jpg" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/Gemini2.jpg" height="100"> |
-| 即将上线 | [STEP 模型文件](hardware/reBot_B601_DM/3D_Printed_Parts/D435_Gemini2_Mount.step) | [STEP 模型文件](hardware/reBot_B601_DM/3D_Printed_Parts/D405_305_Mount.step) · [设计说明](https://github.com/bowenszhu/rebot-b601-rs-d405-wrist-mount/tree/v1.0.0) | [STEP 模型文件](hardware/reBot_B601_DM/3D_Printed_Parts/D435_Gemini2_Mount.step) |
+| <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/UVC_camera_mount.png" height="100" alt="32×32 UVC 相机支架"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/D435i.jpg" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/D405.jpg" height="100"> | <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/Gemini2.jpg" height="100"> |
+| [STEP 模型文件](hardware/camera-mounts/b601-camera-mounts/UVC32_mount.step) | [STEP 模型文件](hardware/camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) | [STEP 模型文件](hardware/camera-mounts/b601-camera-mounts/D405_305_Mount.step) · [设计说明](https://github.com/bowenszhu/rebot-b601-rs-d405-wrist-mount/tree/v1.0.0) | [STEP 模型文件](hardware/camera-mounts/b601-camera-mounts/D435_Gemini2_Mount.step) |
 
 ### 兼容主臂（Leader Arm）
 

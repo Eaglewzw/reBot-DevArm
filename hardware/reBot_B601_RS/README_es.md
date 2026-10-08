@@ -64,6 +64,8 @@ El arrastre prolongado del arnés de cableado del motor 1 puede desgastar el con
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | Clips de arnés de cableado para ambos lados del motor 1 | <img src="./3D_Printed_Parts/images/RS_Motor1_wiring_harness_clip.jpg" width="80"> | `RS_Motor1_wiring_harness_clip.stp` | ABS negro Bambu Lab | 2 | boquilla de 0.4 mm, altura de capa 0.2 mm, relleno 30% |
 
+Los soportes de cámara de muñeca B601 son comunes a **B601-RS y B601-DM**. Los modelos, las vistas previas y las descargas están en el [catálogo compartido de soportes (en inglés)](../camera-mounts/README.md).
+
 ### 🧩 Recomendaciones de impresión
 - Altura de capa: 0.2 mm
 - Boquilla: 0.4 mm

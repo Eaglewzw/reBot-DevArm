@@ -64,6 +64,8 @@ Long-term dragging of Wiring Harness 1 may abrade the motor connector and result
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | Wiring Harness Clips for Two Sides of Motor 1 | <img src="./3D_Printed_Parts/images/RS_Motor1_wiring_harness_clip.jpg" width="80"> | `RS_Motor1_wiring_harness_clip.stp` | Bambu Lab Black ABS | 2 | 0.4 mm nozzle, 0.2 mm layer height, 30% infill |
 
+The B601 wrist camera mounts are shared by **B601-RS and B601-DM**. Models, previews, and downloads are maintained in the [shared camera mount catalog](../camera-mounts/README.md).
+
 ### 🧩 Printing Recommendations
 - Layer height: 0.2 mm
 - Nozzle: 0.4 mm
